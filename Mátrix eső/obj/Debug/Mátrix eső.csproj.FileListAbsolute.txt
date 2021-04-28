@@ -1,0 +1,7 @@
+C:\Users\Smarthomeecho\source\repos\Mátrix eső\Mátrix eső\bin\Debug\Mátrix eső.exe.config
+C:\Users\Smarthomeecho\source\repos\Mátrix eső\Mátrix eső\bin\Debug\Mátrix eső.exe
+C:\Users\Smarthomeecho\source\repos\Mátrix eső\Mátrix eső\bin\Debug\Mátrix eső.pdb
+C:\Users\Smarthomeecho\source\repos\Mátrix eső\Mátrix eső\obj\Debug\Mátrix eső.csprojAssemblyReference.cache
+C:\Users\Smarthomeecho\source\repos\Mátrix eső\Mátrix eső\obj\Debug\Mátrix eső.csproj.CoreCompileInputs.cache
+C:\Users\Smarthomeecho\source\repos\Mátrix eső\Mátrix eső\obj\Debug\Mátrix eső.exe
+C:\Users\Smarthomeecho\source\repos\Mátrix eső\Mátrix eső\obj\Debug\Mátrix eső.pdb
